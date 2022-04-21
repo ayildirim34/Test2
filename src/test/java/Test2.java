@@ -6,5 +6,7 @@ public class Test2 {
         System.out.println("devam3get");
         System.out.println("devam5");
         System.out.println("deneme6");
+        System.out.println("deneme7");
+
     }
 }
