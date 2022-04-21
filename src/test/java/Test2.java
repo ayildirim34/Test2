@@ -3,5 +3,6 @@ public class Test2 {
         System.out.println("basla");
         System.out.println("devam");
         System.out.println("devam2");
+        System.out.println("devam3get");
     }
 }
