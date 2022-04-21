@@ -7,6 +7,8 @@ public class Test2 {
         System.out.println("devam5");
         System.out.println("deneme6");
         System.out.println("deneme7");
+        System.out.println("deneme8");
+
 
     }
 }
